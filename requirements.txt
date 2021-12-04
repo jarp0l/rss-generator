@@ -1,0 +1,4 @@
+beautifulsoup4
+feedgen
+html5lib
+requests
